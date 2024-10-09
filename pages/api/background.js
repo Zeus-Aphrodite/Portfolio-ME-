@@ -15,31 +15,31 @@ const background = [
         expCards: [
             {
                 id: 1,
-                title: 'Software Technologies',
-                role: 'Full Stack Developer',
-                url: 'https://jmm.ltd/',
-                desc: 'As a Senior Full Stack Developer, Focused on BackEnd, I use React, Next & JavaScript to build user interfaces for web applications.',
-                year: '01/2022 - 02/2023',
-                location: 'OptimizeFT • San Diego, California'
+                title: 'Block Chain Technologies',
+                role: 'Blockchain Developer',
+                url: 'https://www.cryptokitties.co/',
+                desc: 'I work there as a Block chain developer, there I learned about Block chain and developed 8 projects, also I worked on Firebase.',
+                year: '12/2022 - 05/2024',
+                location: 'Ekotek, Japan'
             },
             {
                 id: 2,
-                title: 'Block Chain Technologies',
-                role: 'Block Chain Developer',
-                url: 'https://www.cryptokitties.co/',
-                desc: "I work there as a Block chain developer, there I learned about Block chain and developed 8 projects, also I worked on Firebase",
-                year: '07/2020 - 11/2021',
-                location: 'Boxfish Studio Aranjuez, Madrid'
+                title: 'Software Technologies',
+                role: 'Full Stack Developer',                
+                url: 'https://jmm.ltd/',
+                desc: "As a Senior Full Stack Developer, Focused on BackEnd, I use React, Next & JavaScript to build user interfaces for web applications.",
+                year: '04/2018 - 11/2022',
+                location: 'Newwave Solutions Japan, Japan'
             },
-            {
-                id: 3,
-                title: 'Web full stack Technologies, bloch chain stack Technologies',
-                role: 'Senior Full Stack Developer As a Freelancer',
-                url: 'https://sevengramscaffe.com/',
-                desc: 'Developed some Ecommerce sites using HTML/CSS, JavaScript,WordPress, Shopify and Magento.Very Clean and Neat Designing and making a LIVE Website from Figma with React.js, Rust as much as working very efficient and less timeconsuming.',
-                year: '05/2018 - 09/2020',
-                location: 'Appelink, Madrid'
-            },
+            // {
+            //     id: 3,
+            //     title: 'Web full stack Technologies, bloch chain stack Technologies',
+            //     role: 'Senior Full Stack Developer As a Freelancer',
+            //     url: 'https://sevengramscaffe.com/',
+            //     desc: 'Developed some Ecommerce sites using HTML/CSS, JavaScript,WordPress, Shopify and Magento.Very Clean and Neat Designing and making a LIVE Website from Figma with React.js, Rust as much as working very efficient and less timeconsuming.',
+            //     year: '05/2018 - 09/2020',
+            //     location: 'Appelink, Madrid'
+            // },
 
         ]
     }
