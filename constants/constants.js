@@ -5,7 +5,7 @@ export const DESIGNATION = `Blockchain and Fullstack Developer`;
 export const DETAILS = {
   Residence: 'Japan',
   City: 'Osaka',
-  Age: '32',
+  Age: '27',
 };
 
 export const SKILLS = [
@@ -15,7 +15,7 @@ export const SKILLS = [
   },
   {
     title: 'Smart Contract Auditor',
-    level: '40%',
+    level: '90%',
   },
   {
     title: 'MERN Stack Developer',
@@ -23,11 +23,11 @@ export const SKILLS = [
   },
   {
     title: 'Backend Developer',
-    level: '50%',
+    level: '70%',
   },
   {
     title: 'Frontend Developer',
-    level: '80%',
+    level: '90%',
   },
   {
     title: 'App Developer',
